@@ -16,6 +16,7 @@ public class ChatBot {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
+        Interaction interaction = new Interaction();
     }
     
 }
